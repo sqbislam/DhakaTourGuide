@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary"> #607d8b </color>
+    <color name="colorPrimaryDark"> #212121 </color>
+    <color name="colorAccent"> #455a64 </color>
+    <color name="Shop">#96ab47bc</color>
+    <color name="Hotel">#00acc1</color>
+    <color name="Attraction">#96f06292</color>
+    <color name="Food">#1565c0</color>
+
+    <color name="textPrimary">#424242</color>
+
+    <color name="Shopmain">#ab47bc</color>
+    <color name="Hotelmain">#00acc1</color>
+    <color name="Attractionmain">#f06292</color>
+    <color name="Foodmain">#1565c0</color>
+
+</resources>

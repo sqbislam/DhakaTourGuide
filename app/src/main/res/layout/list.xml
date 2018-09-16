@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/color_layout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="132dp"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    >
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:padding="8dp"
+        android:id="@+id/list_image"
+        android:layout_width="128dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:src="@color/Attraction"
+        />
+
+    <ImageButton
+        android:id="@+id/location_button"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:scaleX="1.25"
+        android:scaleY="1.25"
+        android:layout_margin="8dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_location_on"
+        />
+
+</RelativeLayout>
+
+
+<LinearLayout
+    android:id="@+id/color_layout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/name_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textAllCaps="true"
+        android:text="@string/Shop6"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/description_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/Shop2Description"
+        android:textColor="@color/textPrimary"
+        android:textSize="16sp" />
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/bookButton"
+        style="@android:style/Widget.Holo.Button.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:alpha="1"
+        android:layout_marginRight="16dp"
+        android:layout_alignParentRight="true"
+        android:text="More Info" />
+
+    <ImageButton
+        android:id="@+id/fbButtom"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/fb"
+        android:layout_marginRight="16dp"
+        android:scaleType="center"
+        android:adjustViewBounds="true"
+        android:visibility="gone"
+        android:layout_alignParentRight="true"
+        />
+    </RelativeLayout>
+
+</LinearLayout>
+
+</LinearLayout>

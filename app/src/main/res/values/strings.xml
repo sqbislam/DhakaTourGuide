@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">Dhaka Tour Guide</string>
+
+    <string name="Shop1">Aarong</string>
+    <string name="Shop1Description">This is your one-stop-shop for all Bangladesh souvenirs</string>
+
+
+    <string name="Shop2">Bashundhara City</string>
+    <string name="Shop2Description">This is your one-stop-shop for all Bangladesh souvenirs</string>
+
+
+    <string name="Shop3">Jamuna Future Park</string>
+    <string name="Shop3Description">The Largest Shopping Complex in Bangladesh</string>
+
+
+    <string name="Shop4">New Market</string>
+    <string name="Shop4Description">This is Dhaka’s largest market and sells everything under the sun, even the sun itself if you pay enough.</string>
+
+
+    <string name="Shop5">Bangshal</string>
+    <string name="Shop5Description">Anything related to cycles or metal parts at cheapest rate</string>
+
+
+    <string name="Shop6">Drik Gallery</string>
+    <string name="Shop6Description">A place for the art enthusiasts</string>
+
+
+    <string name="Shop7">Banga Bazar</string>
+    <string name="Shop7Description">A large and frenzied clothing store with both second hand clothing and factory overruns.</string>
+
+    <!--Hotels-->
+
+    <string name="Hotel1">Amari</string>
+    <string name="Hotel1Location">Gulshan</string>
+    <string name="Hotel1link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d6985943-Reviews-Amari_Dhaka-Dhaka_City_Dhaka_Division.html</string>
+
+
+    <string name="Hotel2">Hotel Sarina</string>
+    <string name="Hotel2Location">Banani</string>
+    <string name="Hotel2link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d601488-Reviews-Hotel_Sarina_Dhaka-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel3">The Westin</string>
+    <string name="Hotel3Location">Gulshan Avenue</string>
+    <string name="Hotel3link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d628632-Reviews-The_Westin_Dhaka-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel4">Four Points by Sheraton</string>
+    <string name="Hotel4Location">Gulshan</string>
+    <string name="Hotel4link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d6782055-Reviews-Four_Points_by_Sheraton_Dhaka_Gulshan-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel5">Ascott Palace Limited</string>
+    <string name="Hotel5Location">Baridhara</string>
+    <string name="Hotel5link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d7194184-Reviews-Ascott_Palace_Limited-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel6">Six Seasons Hotel</string>
+    <string name="Hotel6Location">Gulshan 2</string>
+    <string name="Hotel6link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d5305699-Reviews-Six_Seasons_Hotel-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel7">Long Beach Suites</string>
+    <string name="Hotel7Location">Gulshan</string>
+    <string name="Hotel7link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d6498764-Reviews-Long_Beach_Suites_Dhaka-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel8">Radisson Blu</string>
+    <string name="Hotel8Location">Airport Road</string>
+    <string name="Hotel8link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d603313-Reviews-Radisson_Blu_Dhaka_Water_Garden-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel9">Le Meridien</string>
+    <string name="Hotel9Location">Airport Road</string>
+    <string name="Hotel9link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d7850970-Reviews-Le_Meridien_Dhaka-Dhaka_City_Dhaka_Division.html</string>
+
+    <string name="Hotel10">The Way</string>
+    <string name="Hotel10Location">Gulshan</string>
+    <string name="Hotel10link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d10258558-Reviews-THE_WAY_Dhaka-Dhaka_City_Dhaka_Division.html</string>
+
+
+    <string name="Hotel11">Pan Pacific Sonargaon</string>
+    <string name="Hotel11Location">Kazi Nazrul Islam Avenue</string>
+    <string name="Hotel11link">https://www.tripadvisor.co.nz/Hotel_Review-g293936-d301905-Reviews-Pan_Pacific_Sonargaon_Dhaka-Dhaka_City_Dhaka_Division.html</string>
+
+//Fast food
+
+    <string name="Fast1">Madchef</string>
+    <string name="Fast1Link">https://www.facebook.com/madchefdhk/</string>
+
+    <string name="Fast2">Takeout</string>
+    <string name="Fast2Link">https://www.facebook.com/takeout.dhanmondi/?ref=br_rs</string>
+
+    <string name="Fast3">Chillox</string>
+    <string name="Fast3Link">https://www.facebook.com/chillox.burgers/</string>
+
+    <string name="Fast4">Alfresco</string>
+    <string name="Fast4Link">https://www.facebook.com/alfrescobanani/</string>
+
+    <string name="Fast5">Burger King</string>
+    <string name="Fast5Link">https://www.facebook.com/BurgerKingBangladesh/</string>
+
+    <string name="Fast6">Chefs Cuisine</string>
+    <string name="Fast6Link">https://www.facebook.com/chefscuisinebd/</string>
+
+    <string name="Fast7">Gloria Jeans</string>
+    <string name="Fast7Link">https://www.facebook.com/gloriajeansjcoffeesbangladesh/</string>
+
+    <string name="Fast8">Star Kabab</string>
+    <string name="Fast8Link">https://www.facebook.com/pages/Star-Kabab-Dhanmodi/546862285374196</string>
+
+    <string name="Fast9">Live Kitchen</string>
+    <string name="Fast9Link">https://www.facebook.com/livekitchenbd/</string>
+
+    <string name="Fast10">Pimiento</string>
+    <string name="Fast10Link">https://www.facebook.com/pimientobd/</string>
+
+    <string name="Fast11">The Pit Grill</string>
+    <string name="Fast11Link">https://www.facebook.com/The-Pit-Grill-351557104982243/</string>
+
+    <string name="Fast12">Khanas</string>
+    <string name="Fast12Link">https://www.facebook.com/khanaseat/</string>
+
+    <string name="Fast13">TasteBud</string>
+    <string name="Fast13Link">https://www.facebook.com/tastebudbd/</string>
+
+    <string name="Fast14">CrimsonCup</string>
+    <string name="Fast14Link">https://www.facebook.com/crimsoncupbd/</string>
+
+    <string name="Fast15">Pizza Guy</string>
+    <string name="Fast15Link">https://www.facebook.com/pizzaguydelivery/</string>
+
+    <string name="Fast16">Cafe Droom</string>
+    <string name="Fast16Link">https://www.facebook.com/droombanani/</string>
+
+    <string name="Fast17">Sub Factory</string>
+    <string name="Fast17Link">https://www.facebook.com/subfactorydhaka/</string>
+
+    //Cusine
+
+    <string name="Cusine1">Nandos</string>
+    <string name="Cuisine1Style">Afro Portuguese</string>
+    <string name="Cusine1Link">https://www.facebook.com/Nandosbd/</string>
+
+    <string name="Cusine2">Santoor</string>
+    <string name="Cuisine2Style">Indian</string>
+    <string name="Cusine2Link">https://www.facebook.com/santoorrestaurent/</string>
+
+    <string name="Cusine3">The Dining room</string>
+    <string name="Cuisine3Style">Bangladeshi</string>
+    <string name="Cusine3Link">https://www.facebook.com/thediningroomdhaka/</string>
+
+    <string name="Cusine4">Bbq Bangladesh</string>
+    <string name="Cuisine4Style">Barbeque grill</string>
+    <string name="Cusine4Link">https://www.facebook.com/bbq.bangladesh/</string>
+
+    <string name="Cusine5">Bar BQ Tonight</string>
+    <string name="Cuisine5Style">Barbeque grill</string>
+    <string name="Cusine5Link">https://www.facebook.com/barbqtonight.dhk/</string>
+
+    <string name="Cusine6">The Great Kabab Factory</string>
+    <string name="Cuisine6Style">Barbeque grill</string>
+    <string name="Cusine6Link">https://www.facebook.com/TheGreatKababFactoryBD/</string>
+
+    <string name="Cusine7">Hakka Dhaka</string>
+    <string name="Cuisine7Style">Chinese</string>
+    <string name="Cusine7Link">https://www.facebook.com/hakkadhaka/</string>
+
+    <string name="Cusine8">Flavours of China</string>
+    <string name="Cuisine8Style">Chinese</string>
+    <string name="Cusine8Link">https://www.facebook.com/flavorsofchina/</string>
+
+    <string name="Cusine9">Baton Rogue</string>
+    <string name="Cuisine9Style">Indian</string>
+    <string name="Cusine9Link">https://www.facebook.com/BatonRougeDhaka/</string>
+
+    <string name="Cusine10">Tarka</string>
+    <string name="Cuisine10Style">Indian</string>
+    <string name="Cusine10Link">https://www.facebook.com/tarkarestaurant/</string>
+
+    <string name="Cusine11">Alchemy</string>
+    <string name="Cuisine11Style">Internatonal</string>
+    <string name="Cusine11Link">https://www.facebook.com/Alchemydhaka/</string>
+
+    <string name="Cusine12">Bistro E</string>
+    <string name="Cuisine12Style">Internatonal</string>
+    <string name="Cusine12Link">https://www.facebook.com/bistro.e.bd/</string>
+
+    <string name="Cusine13">Lake Terrace</string>
+    <string name="Cuisine13Style">Internatonal</string>
+    <string name="Cusine13Link">https://www.facebook.com/laketerrace/</string>
+
+    <string name="Cusine14">Meraki</string>
+    <string name="Cuisine14Style">Internatonal</string>
+    <string name="Cusine14Link">https://www.facebook.com/merakidhaka/</string>
+
+    <string name="Cusine15">Platter</string>
+    <string name="Cuisine15Style">Internatonal</string>
+    <string name="Cusine15Link">https://www.facebook.com/platterdining/</string>
+
+    <string name="Cusine16">The Glasshouse Brassiere</string>
+    <string name="Cuisine16Style">Internatonal</string>
+    <string name="Cusine16Link">https://www.facebook.com/theglasshousebrasseriedhaka/</string>
+
+    <string name="Cusine17">WaterCress</string>
+    <string name="Cuisine17Style">Internatonal</string>
+    <string name="Cusine17Link">https://www.facebook.com/watercressbd/</string>
+
+    <string name="Cusine18">Umai</string>
+    <string name="Cuisine18Style">Japanese</string>
+    <string name="Cusine18Link">https://www.facebook.com/umai.bd/</string>
+
+    <string name="Cusine19">Tokyo Express</string>
+    <string name="Cuisine19Style">Japanese</string>
+    <string name="Cusine19Link">https://www.facebook.com/ILoveTokyoExpress/</string>
+
+    <string name="nullvalue"></string>
+
+
+    <string name="Attraction1">Lalbagh Fort</string>
+    <string name="Attraction1desc">17th-century fort with art and antiques</string>
+
+    <string name="Attraction2">Sonargaon</string>
+    <string name="Attraction2desc">Folk art, museums, art, history, and rivers</string>
+
+    <string name="Attraction3">Ahsan Manzil</string>
+    <string name="Attraction3desc">Landmark palace of the Dhaka Nawabs</string>
+
+    <string name="Attraction4">Jatiya Sangsad Bhaban</string>
+    <string name="Attraction4desc">Parliament building with modern design</string>
+
+    <string name="Attraction5">Jatiyo Sriti Shoudho</string>
+    <string name="Attraction5desc">Prominent 12th-century Hindu temple</string>
+
+    <string name="Attraction6">National Museum</string>
+    <string name="Attraction6desc">Major museum for Bangladesh heritage</string>
+
+    <string name="Attraction7">Sixty Dome Mosque</string>
+    <string name="Attraction7desc">Architecture</string>
+
+    <string name="Attraction8">National Zoo</string>
+    <string name="Attraction8desc">Urban zoo with a wide range of animals</string>
+
+    <string name="Attraction9">Shaheed Minar</string>
+    <string name="Attraction9desc">Monument</string>
+
+    <string name="Attraction10">Ramna Park</string>
+    <string name="Attraction10desc">Park</string>
+
+    <string name="Attraction11">Dhakeshwari Temple</string>
+    <string name="Attraction11desc">Prominent 12th-century Hindu temple</string>
+
+    <string name="Attraction12">Bangabandhu Museum</string>
+    <string name="Attraction12desc">Museum</string>
+
+
+</resources>
